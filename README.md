@@ -1,20 +1,15 @@
 # Infant Vision properties
 
------
-
 This project is developed as a submission for the Computational Visual Perception Course.
 
 ## Getting Started
 
-------
 - Clone the repository. Create a virtual env using the command `python3 -m venv /path/to/new/virtual/environment`.
 - Refer to the [documentation](https://docs.python.org/3/library/venv.html) for more details.
 - Install the requirements using the command `pip install -r requirements.txt`.
 
-
 ## Properties Implemented
 
-----
 ### 1.Visual Acuity
 Visual acuity is the ability of the eye to discern fine details and distinguish objects clearly. 
 
