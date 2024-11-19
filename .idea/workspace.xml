@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da5b4ae-603c-4931-8114-fea0fdfd792c" name="Changes" comment="Adding images and dataset">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties.py" afterDir="false" />
-    </list>
+    <list default="true" id="5da5b4ae-603c-4931-8114-fea0fdfd792c" name="Changes" comment="Minor changes in cpd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,12 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731964810815</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Minor changes in cpd">
+      <option name="closed" value="true" />
+      <created>1732013348401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732013348401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adding images and dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding images and dataset" />
+    <MESSAGE value="Minor changes in cpd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes in cpd" />
   </component>
 </project>
