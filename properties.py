@@ -92,19 +92,21 @@ class Utility:
             raise ValueError("Age cannot be negative.")
 
         if 0 < self.age <= 1:
-            cpd = 1
-        elif 1 < self.age <= 3:
-            cpd = 3
+            cpd = 2.4
+        elif 1 < self.age <= 2:
+            cpd = 2.8
+        elif 2 < self.age <= 3:
+            cpd = 4.0
         elif 3 < self.age <= 6:
-            cpd = 8
+            cpd = 8.0
         elif 6 < self.age <= 12:
-            cpd = 10
+            cpd = 10.0
         elif 12 < self.age <= 72:
-            cpd = 30
+            cpd = 20.0
         elif 72 < self.age <= 240:
-            cpd = 50
+            cpd = 32.0
         else:
-            cpd = 30
+            cpd = 30.0
 
         return cpd
 
